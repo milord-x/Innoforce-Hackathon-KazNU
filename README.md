@@ -1,4 +1,10 @@
 # Innoforce-Hackathon-KazNU
+
+
+<p align="center">
+<img src="IMG_6287.JPG" width="900">
+</p>
+
 ## Command EduMidnd
 Members: Abdikul Arslan, Zhaksybek Ramazan
 
