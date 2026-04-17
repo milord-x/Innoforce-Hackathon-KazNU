@@ -71,7 +71,7 @@ Members: Abdikul Arslan, Zhaksybek Ramazan
 ╠══════════════════════════════════════════════════════════════╣
 ║  Score: 41/41                                                ║
 ║  Attacks blocked: 18/18  |  Safe passed: 5/5                 ║
-║  Total hook time: 16.7ms (limit: 100ms per prompt)           ║
+║  Total hook time: 15.4ms (limit: 100ms per prompt)           ║
 ╚══════════════════════════════════════════════════════════════╝
 
 Legend: ✅ BLOCKED = input hook caught (+2)
