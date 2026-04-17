@@ -1,9 +1,9 @@
 # Innoforce-Hackathon-KazNU
 ## Command EduMidnd
+Members: Abdikul Arslan, Zhaksybek Ramazan
 
-Terminal output
+## Terminal output
 ```bash
-
  ❯Innoforce Hackathon KazNU ❯ docker run -v "$PWD/my_solution.py:/app/solution.py" \
                                        c0rp/innoforce.kz:sec-guard-latest \
                                        --hook /app/solution.py \
